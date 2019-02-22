@@ -50,7 +50,7 @@ class CanadaAnimals extends Racoons {
         System.out.println("Money for dogs " + this.moneyForDog + "$");
         System.out.println("Dog's food: " + foodNameDog);
         System.out.println();
-        System.out.println("Racoons " + this.racoons);
+        System.out.println("Racoons: " + this.racoons);
         System.out.println("RacoonsMeters: " + this.metersForRacoons + " meters");
         System.out.println("Food per month: " + this.foodForRacoons + " kg.");
         System.out.println("Money for Racoons " + this.moneyForRacoons + "$");
@@ -89,7 +89,7 @@ class USAAnimals extends Racoons {
         System.out.println("Money for dogs " + this.moneyForDog + "$");
         System.out.println("Dog's food: " + foodNameDog);
         System.out.println();
-        System.out.println("Racoons " + this.racoons);
+        System.out.println("Racoons: " + this.racoons);
         System.out.println("RacoonsMeters: " + this.metersForRacoons + " meters");
         System.out.println("Food per month: " + this.foodForRacoons + " kg.");
         System.out.println("Money for Racoons " + this.moneyForRacoons + "$");
@@ -125,7 +125,7 @@ class RussiaAnimals extends Racoons {
         System.out.println("Money for dogs " + this.moneyForDog + "$");
         System.out.println("Dog's food: " + foodNameDog);
         System.out.println();
-        System.out.println("Racoons " + this.racoons);
+        System.out.println("Racoons: " + this.racoons);
         System.out.println("\n");
     }
 }
@@ -160,7 +160,7 @@ class UkraineAnimals extends Racoons {
         System.out.println("Money for dogs " + this.moneyForDog + "$");
         System.out.println("Dog's food: " + foodNameDog);
         System.out.println();
-        System.out.println("Racoons " + this.racoons);
+        System.out.println("Racoons: " + this.racoons);
         System.out.println("RacoonsMeters: " + this.metersForRacoons + " meters");
         System.out.println("Food per month: " + this.foodForRacoons + " kg.");
         System.out.println("Money for Racoons " + this.moneyForRacoons + "$");
@@ -199,7 +199,7 @@ class JapanAnimals extends Racoons {
         System.out.println("Money for dogs " + this.moneyForDog + "$");
         System.out.println("Dog's food: " + foodNameDog);
         System.out.println();
-        System.out.println("Racoons " + this.racoons);
+        System.out.println("Racoons: " + this.racoons);
         System.out.println("RacoonsMeters: " + this.metersForRacoons + " meters");
         System.out.println("Food per month: " + this.foodForRacoons + " kg.");
         System.out.println("Money for Racoons " + this.moneyForRacoons + "$");
@@ -244,7 +244,7 @@ class WorldAnimals extends Racoons {
         System.out.println("Money for dogs " + this.moneyForDog + "$");
         System.out.println("Dog's food: " + foodNameDog);
         System.out.println();
-        System.out.println("Racoons " + this.racoons);
+        System.out.println("Racoons: " + this.racoons);
         System.out.println("RacoonsMeters: " + this.metersForRacoons + " meters");
         System.out.println("Food per month: " + this.foodForRacoons + " kg.");
         System.out.println("Money for Racoons " + this.moneyForRacoons + "$");
